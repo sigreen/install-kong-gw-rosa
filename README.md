@@ -5,7 +5,7 @@ This example stands up a Kong Gateway instance on a pre-provisioned instance of 
 
 ## Prerequisites
 1. A Red Hat account so you can access the [Cluster Console](https://console.redhat.com/openshift/).
-2. A ROSA instance on AWS.  You can provision ROSA using [these](https://www.rosaworkshop.io/rosa/2-deploy/)#create-the-cluster] instructions.  I create a `cluster-admin` user with `HTPasswd` as my IdP for demonstration purposes.
+2. A ROSA instance on AWS.  You can provision ROSA using [these](https://www.rosaworkshop.io/rosa/2-deploy#create-the-cluster) instructions.  I create a `cluster-admin` user with `HTPasswd` as my IdP for demonstration purposes.
 3. `oc` CLI
 4. `rosa` CLI
 
