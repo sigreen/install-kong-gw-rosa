@@ -55,8 +55,6 @@ env:
       secretKeyRef:
         name: kong-session-config
         key: portal_session_conf
-  admin_api_url: http://admin-kong.apps.simongreen-rosa.27y7.p1.openshiftapps.com
-  admin_gui_uri: http://manager-kong.apps.simongreen-rosa.27y7.p1.openshiftapps.com
 #  session_conf_secret:
 #    valueFrom:
 #      secretKeyRef:
