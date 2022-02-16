@@ -1,0 +1,8 @@
+{
+  "cookie_name": "admin_session",
+  "secret": "kong",
+  "cookie_secure": false,
+  "cookie_samesite": "off",
+  "cookie_domain": ".apps.simongreen-rosa.27y7.p1.openshiftapps.com",
+  "storage": "kong"
+}
